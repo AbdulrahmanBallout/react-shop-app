@@ -177,14 +177,12 @@ shop-app/
 - Safari (latest)
 - Edge (latest)
 
-## 📄 License
-
-This project is private and proprietary.
-
 ## 👤 Author
 
-Celtis Australis
+Abdulrahman Ballout
 
 ---
 
-For questions or support, please contact the development team.
+For questions or support, please contact me
+Abdulrahmanballout@gmail.com
+
