@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Universa",
+        "image": "/img/Nike-Universa.avif",
+        "link": "/product/1"
+    },
+    {
+        "id": 2,
+        "name": "FC Strike",
+        "image": "/img/FC-Strike.avif",
+        "link": "/product/1"
+    },
+    {
+        "id": 3,
+        "name": "Nike Pro",
+        "image": "/img/nike-pro.avif",
+        "link": "/product/1"
+    },
+    {
+        "id": 4,
+        "name": "Nike Mind",
+        "image": "/img/nike-mind.avif",
+        "link": "/product/1"
+    },
+    {
+        "id": 5,
+        "name": "Nike Swift",
+        "image": "/img/nike-swift.avif",
+        "link": "/product/1"
+    },
+    {
+        "id": 6,
+        "name": "Jordan Sport",
+        "image": "/img/joradn-sport.avif",
+        "link": "/product/1"
+    },
+    {
+        "id": 7,
+        "name": "Nike Swift",
+        "image": "/img/Nike-Swif.avif",
+        "link": "/product/1"
+    },
+    {
+        "id": 8,
+        "name": "NikeCourt Victory",
+        "image": "/img/NikeCourt-Victory.avif",
+        "link": "/product/1"
+    }
+]

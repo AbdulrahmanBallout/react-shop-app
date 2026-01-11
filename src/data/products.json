@@ -1,0 +1,190 @@
+[
+    {
+        "id": 1,
+        "number": 1,
+        "name": "Nike Free Metcon 5",
+        "category": "Nike shoes",
+        "description": "The combine of breathable mesh without seams for wonderful traditional and modern style to add the perfect amount of flash to make you shine.",
+        "price": 37.5,
+        "originalPrice": 50,
+        "discount": 25,
+        "currency": "JD",
+        "images": [
+            "/img/bla1.png",
+            "/img/bla2.png",
+            "/img/bla3.png",
+            "/img/bla4.png"
+        ],
+        "colors": [
+            {
+                "name": "Black",
+                "class": "bla",
+                "images": [
+                    "/img/bla1.png",
+                    "/img/bla2.png",
+                    "/img/bla3.png",
+                    "/img/bla4.png"
+                ],
+                "badgeBg": "black"
+            },
+            {
+                "name": "Green",
+                "class": "gre",
+                "images": [
+                    "/img/gre1.png",
+                    "/img/gre2.png",
+                    "/img/gre3.png",
+                    "/img/gre4.png"
+                ],
+                "badgeBg": "rgb(187 222 16)"
+            },
+            {
+                "name": "Purple",
+                "class": "pur",
+                "images": [
+                    "/img/pur1.png",
+                    "/img/pur2.png",
+                    "/img/pur3.png",
+                    "/img/pur4.png"
+                ],
+                "badgeBg": "#ab2cac"
+            }
+        ],
+        "sizes": [
+            37,
+            38,
+            39,
+            40,
+            41
+        ],
+        "rating": 4.6,
+        "reviews": 1538
+    },
+    {
+        "id": 2,
+        "number": 1,
+        "name": "Nike Air Force 1 '07",
+        "category": "Men's Shoe",
+        "description": "Classic Nike Air Force 1 with premium leather and iconic design.",
+        "price": 119.99,
+        "currency": "€",
+        "images": [
+            "/img/man-shoes.png"
+        ],
+        "colors": [
+            {
+                "name": "White",
+                "class": "swatch-white"
+            },
+            {
+                "name": "Black",
+                "class": "swatch-black"
+            },
+            {
+                "name": "Gray",
+                "class": "swatch-gray"
+            },
+            {
+                "name": "Light",
+                "class": "swatch-light"
+            }
+        ],
+        "sizes": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+        ],
+        "rating": 4.8,
+        "reviews": 2341,
+        "bestSeller": true
+    },
+    {
+        "id": 3,
+        "number": 1,
+        "name": "Air Force 1 GORE-TEX Vibram",
+        "category": "Men's Shoe",
+        "description": "Weather-resistant Air Force 1 with GORE-TEX technology.",
+        "price": 159.99,
+        "currency": "€",
+        "images": [
+            "/img/man-shoes.png"
+        ],
+        "colors": [
+            {
+                "name": "Black",
+                "class": "swatch-black"
+            },
+            {
+                "name": "Gray",
+                "class": "swatch-gray"
+            }
+        ],
+        "sizes": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+        ],
+        "rating": 4.7,
+        "reviews": 1876
+    },
+    {
+        "id": 4,
+        "number": 1,
+        "name": "Nike Air Force 1 '07 EasyOn",
+        "category": "Shoe",
+        "description": "Easy on, easy off Air Force 1 with innovative design.",
+        "price": 119.99,
+        "currency": "€",
+        "images": [
+            "/img/man-shoes.png"
+        ],
+        "sizes": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+        ],
+        "rating": 4.5,
+        "reviews": 1234
+    },
+    {
+        "id": 5,
+        "number": 1,
+        "name": "Nike Air Force 1 '07 LV8",
+        "category": "Men's Shoe",
+        "description": "Premium Air Force 1 with luxury details.",
+        "price": 129.99,
+        "currency": "€",
+        "images": [
+            "/img/man-shoes.png"
+        ],
+        "colors": [
+            {
+                "name": "Black",
+                "class": "swatch-black"
+            },
+            {
+                "name": "Gray",
+                "class": "swatch-gray"
+            }
+        ],
+        "sizes": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+        ],
+        "rating": 4.6,
+        "reviews": 1567
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "James Carter",
+        "role": "Professional Runner",
+        "avatar": "/img/avatar.png",
+        "rating": 5,
+        "quote": "These shoes offer the perfect balance between lightweight performance and stability. I've been training in them daily and the comfort is unmatched."
+    },
+    {
+        "id": 2,
+        "name": "Emily Johnson",
+        "role": "Fashion Designer",
+        "avatar": "/img/avatar.png",
+        "rating": 4,
+        "quote": "Stylish, modern, and incredibly comfortable. It's rare to find footwear that looks premium and feels great all day long."
+    },
+    {
+        "id": 3,
+        "name": "Michael Lee",
+        "role": "Everyday Wear",
+        "avatar": "/img/avatar.png",
+        "rating": 5,
+        "quote": "I wear these shoes to work and for long walks. The quality is obvious and they still feel great after hours of use."
+    },
+    {
+        "id": 4,
+        "name": "Sophia Martinez",
+        "role": "University Student",
+        "avatar": "/img/avatar.png",
+        "rating": 3,
+        "quote": "Great design and comfort. Perfect for everyday use, especially when you're on your feet most of the day."
+    },
+    {
+        "id": 5,
+        "name": "James Carter",
+        "role": "Professional Runner",
+        "avatar": "/img/avatar.png",
+        "rating": 5,
+        "quote": "These shoes offer the perfect balance between lightweight performance and stability. I've been training in them daily and the comfort is unmatched."
+    },
+    {
+        "id": 6,
+        "name": "Emily Johnson",
+        "role": "Fashion Designer",
+        "avatar": "/img/avatar.png",
+        "rating": 4,
+        "quote": "Stylish, modern, and incredibly comfortable. It's rare to find footwear that looks premium and feels great all day long."
+    },
+    {
+        "id": 7,
+        "name": "Michael Lee",
+        "role": "Everyday Wear",
+        "avatar": "/img/avatar.png",
+        "rating": 5,
+        "quote": "I wear these shoes to work and for long walks. The quality is obvious and they still feel great after hours of use."
+    }
+]

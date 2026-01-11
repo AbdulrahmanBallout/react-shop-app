@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Reebok",
+        "logo": "/img/reebok.svg"
+    },
+    {
+        "id": 2,
+        "name": "Adidas",
+        "logo": "/img/adidas.svg"
+    },
+    {
+        "id": 3,
+        "name": "PUMA",
+        "logo": "/img/puma.svg"
+    },
+    {
+        "id": 4,
+        "name": "UGG",
+        "logo": "/img/ugg.svg"
+    },
+    {
+        "id": 5,
+        "name": "Timberland",
+        "logo": "/img/timberland.svg"
+    },
+    {
+        "id": 6,
+        "name": "NBA",
+        "logo": "/img/nba.svg"
+    },
+    {
+        "id": 7,
+        "name": "Nike",
+        "logo": "/img/nike.svg"
+    },
+    {
+        "id": 8,
+        "name": "FILA",
+        "logo": "/img/fila.svg"
+    }
+]

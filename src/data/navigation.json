@@ -1,0 +1,72 @@
+{
+    "mainMenu": [
+        {
+            "label": "Men's",
+            "link": "/brands"
+        },
+        {
+            "label": "Women's",
+            "link": "/brands"
+        },
+        {
+            "label": "Kids's",
+            "link": "/brands"
+        },
+        {
+            "label": "New & Trending",
+            "link": "/brands"
+        }
+    ],
+    "footer": {
+        "about": "We're more than a destination for shoes — we're a brand that gets you. From timeless classics to bold statements, we help you choose what fits your style and move with confidence, every step of the way.",
+        "brands": [
+            {
+                "name": "Reebok",
+                "link": "/brands"
+            },
+            {
+                "name": "Adidas",
+                "link": "/brands"
+            },
+            {
+                "name": "PUMA",
+                "link": "/brands"
+            },
+            {
+                "name": "UGG",
+                "link": "/brands"
+            },
+            {
+                "name": "Nike",
+                "link": "/brands"
+            },
+            {
+                "name": "FILA",
+                "link": "/brands"
+            },
+            {
+                "name": "Timberland",
+                "link": "/brands"
+            }
+        ],
+        "contact": {
+            "email": "Abdulrahmanballout@gmail.com",
+            "phone": "+962 799539934",
+            "location": "Jordan, Amman"
+        },
+        "social": [
+            {
+                "platform": "Facebook",
+                "url": "https://www.facebook.com/aboody.read.54"
+            },
+            {
+                "platform": "LinkedIn",
+                "url": "https://www.linkedin.com/in/abdulrahman-ballout-11648520a/"
+            },
+            {
+                "platform": "Instagram",
+                "url": "https://www.instagram.com/3bood_ballout/"
+            }
+        ]
+    }
+}
