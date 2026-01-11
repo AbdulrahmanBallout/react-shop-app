@@ -15,7 +15,7 @@ Before you begin, ensure you have the following installed on your system:
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/AbdulrahmanBallout/react-shop-app.git
 cd shop-app
 ```
 
